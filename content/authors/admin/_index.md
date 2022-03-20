@@ -1,8 +1,9 @@
 ---
 title: Harsh Vijayvargiya (हर्ष विजयवर्गीय)
 role: ""
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+avatar_filename: harsh.png
+bio: My research interests include Human Psyche, Digital Transformation,
+  Artificial Intelligence and Occult Sciences.
 social:
   - icon: envelope
     icon_pack: fas
@@ -13,6 +14,11 @@ social:
   - icon: instagram
     icon_pack: fab
     link: https://instagram.com/harshvijayvargiya.in
+  - display:
+      header: false
+    link: https://facebook.com/harshvijayvargiya.in
+    icon_pack: fab
+    icon: Facebook
 organizations:
   - name: Numeristry
     url: ""
@@ -20,8 +26,8 @@ superuser: true
 status:
   icon: ☕️
 ---
-Harsh Vijayvargiya (हर्ष विजयवर्गीय) is a psychologist and occultist.
+Harsh Vijayvargiya (हर्ष विजयवर्गीय) is a Psychologist, Occultist, and Entrepreneur.
 
-With a PHD in Psychology from Stanford University and MBA from IIM Raipur, and masters in marketing and strategy, he runs business in the field of Occult Sciences with a global network of occultist connected with him. 
+With a Ph.D. in Psychology from Stanford University and MBA from IIM Raipur, and a Master's in Marketing and Strategy, he runs a start-up in the field of Occult Sciences with a global network of Occultists connected with him. 
 
 His research interests include \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__. He leads the global occult science group, which develops \_\_\_\_\_\_\_\_\_\_\_\__.
