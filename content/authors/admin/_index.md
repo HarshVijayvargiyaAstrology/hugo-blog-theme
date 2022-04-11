@@ -26,7 +26,7 @@ superuser: true
 status:
   icon: ☕️
 ---
-Harsh Vijayvargiya (हर्ष विजयवर्गीय) is a Psychologist, Occultist, and Entrepreneur.
+Harsh Vijayvargiya (हर्ष विजयवर्गीय) is a Psychologist, Psychic Reader, Social Healer, Occultist and Entrepreneur.
 
 With a Ph.D. in Psychology from Stanford University and MBA from IIM Raipur, and a Master's in Marketing and Strategy, he runs a start-up in the field of Occult Sciences with a global network of Occultists connected with him. 
 
