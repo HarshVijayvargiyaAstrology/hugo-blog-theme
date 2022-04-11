@@ -21,7 +21,7 @@ social:
     icon: Facebook
 organizations:
   - name: Numeristry
-    url: numeristry.com
+    url: http://numeristry.com/
 superuser: true
 status:
   icon: ☕️
