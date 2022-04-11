@@ -1,7 +1,7 @@
 ---
 title: Harsh Vijayvargiya (हर्ष विजयवर्गीय)
 role: ""
-avatar_filename: harsh.png
+avatar_filename: ""
 bio: My research interests include Human Psyche, Digital Transformation,
   Artificial Intelligence and Occult Sciences.
 social:
