@@ -6,7 +6,7 @@ author: admin
 widget_id: Headline
 design:
   background:
-    image: harsh-vijayvargiya.png
+    image: ""
 ---
 Hey! I'm **Harsh Vijayvargiya**, a Psychologist, Occultist, and Entrepreneur. Check out my links and blog posts below for more updates!
 
