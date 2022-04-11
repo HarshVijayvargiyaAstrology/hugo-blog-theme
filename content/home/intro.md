@@ -8,6 +8,6 @@ design:
   background:
     image: harsh-vijayvargiya.png
 ---
-Hey! I'm **Harsh Vijayvargiya**, a Psychologist, Occultist, and Entrepreneur. Check out my links and blog posts below for more updates! 
+Hey! I'm **Harsh Vijayvargiya**, a Psychologist, Occultist, and Entrepreneur. Check out my links and blog posts below for more updates!
 
-🕉️✨🔱**ॐ नमः शिवाय**🔱✨🕉️
+🕉️✨🔱 **ॐ नमः शिवाय** 🔱✨🕉️
