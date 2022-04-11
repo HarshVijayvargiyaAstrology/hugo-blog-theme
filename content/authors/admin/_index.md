@@ -10,13 +10,13 @@ social:
     link: about/#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/harshvijayvargiya
+    link: https://twitter.com/hvblogs
   - icon: instagram
     icon_pack: fab
-    link: https://instagram.com/harshvijayvargiya.in
+    link: https://instagram.com/hvblogs
   - display:
       header: false
-    link: https://facebook.com/harshvijayvargiya.in
+    link: https://facebook.com/hvblogs
     icon_pack: fab
     icon: Facebook
 organizations:
