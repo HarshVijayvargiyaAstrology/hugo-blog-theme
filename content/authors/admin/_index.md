@@ -26,7 +26,7 @@ superuser: true
 status:
   icon: ☕️
 ---
-Harsh Vijayvargiya (हर्ष विजयवर्गीय) is a Psychologist, Psychic Reader, Social Healer, Occultist and Entrepreneur.
+Harsh Vijayvargiya (हर्ष विजयवर्गीय) is a Psychologist, Occultist, Psychic Reader, Social Healer and Entrepreneur.
 
 He specialises in the area of Numerology and Palmistry.
 
