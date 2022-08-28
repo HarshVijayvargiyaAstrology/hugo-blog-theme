@@ -3,7 +3,7 @@ widget: about.avatar
 headless: true
 weight: 10
 author: admin
-widget_id: Headline
+widget_id: Namaskar Sarathi!
 design:
   background:
     image: ""
